@@ -1,0 +1,12 @@
+C:\Users\payes\Desktop\alexandra Payes\ciclo 01-22\progra con estructura de datos\proyecto primera fase\proyecto primera fase\bin\Debug\proyecto primera fase.exe.config
+C:\Users\payes\Desktop\alexandra Payes\ciclo 01-22\progra con estructura de datos\proyecto primera fase\proyecto primera fase\bin\Debug\proyecto primera fase.exe
+C:\Users\payes\Desktop\alexandra Payes\ciclo 01-22\progra con estructura de datos\proyecto primera fase\proyecto primera fase\bin\Debug\proyecto primera fase.pdb
+C:\Users\payes\Desktop\alexandra Payes\ciclo 01-22\progra con estructura de datos\proyecto primera fase\proyecto primera fase\obj\Debug\proyecto primera fase.csproj.AssemblyReference.cache
+C:\Users\payes\Desktop\alexandra Payes\ciclo 01-22\progra con estructura de datos\proyecto primera fase\proyecto primera fase\obj\Debug\proyecto_primera_fase.Form1.resources
+C:\Users\payes\Desktop\alexandra Payes\ciclo 01-22\progra con estructura de datos\proyecto primera fase\proyecto primera fase\obj\Debug\proyecto_primera_fase.Properties.Resources.resources
+C:\Users\payes\Desktop\alexandra Payes\ciclo 01-22\progra con estructura de datos\proyecto primera fase\proyecto primera fase\obj\Debug\proyecto primera fase.csproj.GenerateResource.cache
+C:\Users\payes\Desktop\alexandra Payes\ciclo 01-22\progra con estructura de datos\proyecto primera fase\proyecto primera fase\obj\Debug\proyecto primera fase.csproj.CoreCompileInputs.cache
+C:\Users\payes\Desktop\alexandra Payes\ciclo 01-22\progra con estructura de datos\proyecto primera fase\proyecto primera fase\obj\Debug\proyecto primera fase.exe
+C:\Users\payes\Desktop\alexandra Payes\ciclo 01-22\progra con estructura de datos\proyecto primera fase\proyecto primera fase\obj\Debug\proyecto primera fase.pdb
+C:\Users\payes\Desktop\alexandra Payes\ciclo 01-22\progra con estructura de datos\proyecto primera fase\proyecto primera fase\obj\Debug\proyecto_primera_fase.Form2.resources
+C:\Users\payes\Desktop\alexandra Payes\ciclo 01-22\progra con estructura de datos\proyecto primera fase\proyecto primera fase\obj\Debug\proyecto_primera_fase.Form3.resources
